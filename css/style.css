@@ -1,0 +1,12 @@
+.home{
+    width: 130vh;
+    margin: auto;
+    height: 100vw;
+    border: solid;
+}
+.conteiner{
+    background-color: rgb(244, 248, 206);
+    width: 100vh;
+    margin: 10vh auto ;
+ 
+}
